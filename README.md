@@ -30,7 +30,7 @@ A deep learning model using TensorFlow and Keras to predict stock prices based o
 
 1️⃣ Clone this repository:  
 ```sh
-git clone https://github.com/yourusername/stock-prediction-ai.git  
+git clone https://github.com/Nxtyyaaaa/stock-prediction-ai.git  
 cd stock-prediction-ai  
 ```  
 2️⃣ Install dependencies:  
