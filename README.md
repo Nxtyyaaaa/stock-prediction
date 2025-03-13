@@ -70,7 +70,7 @@ python predict.py
 ---
 
 ### 📝 Credits  
-Developed by [Your Name] ✨  
+Developed by Nitya Matta ✨  
 
 ---
 
